@@ -2,9 +2,6 @@
 %College : Indian Institute Of Information Technolgy , Nagpur
 %write a matlab programme generate tambola ticket
 %created by : BT21ECE091
-%date  : 23-01-2023
-
-
 
 % Define ranges for each column
 ranges = {[1 10], [11 20], [21 30], [31 40], [41 50], [51 60], [61 70], [71 80], [81 90]};
